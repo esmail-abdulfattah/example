@@ -8,4 +8,4 @@ Trying to add a list:
 * item 3
 
 ## Link Example
-[Google] (www.google.com.lb)
+[Google] (http://www.google.com.lb)
