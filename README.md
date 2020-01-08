@@ -7,3 +7,5 @@ Trying to add a list:
 * item 2
 * item 3
 
+## Link Example
+[Google] (www.google.com.lb)
