@@ -4,5 +4,6 @@ red
 green
 blue
 yellow
+orange
 unicorn
 black
