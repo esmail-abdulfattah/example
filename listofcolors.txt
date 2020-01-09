@@ -1,5 +1,4 @@
 Pink
 Red
 Orange
-Pink
-Purple
+Black
