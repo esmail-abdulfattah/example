@@ -1,3 +1,6 @@
 Pink
 Red
 Orange
+Purple
+Pink
+Grey
